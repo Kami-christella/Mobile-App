@@ -1,0 +1,14 @@
+{
+  "title": "Mi Aplicación",
+  "calculator": "Calculadora",
+  "signUp": "Regístrate",
+  "signIn": "Iniciar Sesión",
+  "selectPicture": "Seleccionar de la Galería",
+  "takePicture": "Tomar una Foto",
+  "editProfilePicture": "Editar Foto de Perfil",
+  "welcome": "Bienvenido a Mi Aplicación",
+  "email": "Correo Electrónico",
+  "emailError": "Por favor, ingresa tu correo electrónico",
+  "password": "Contraseña",
+  "passwordError": "Por favor, ingresa tu contraseña"
+}

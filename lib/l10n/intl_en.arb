@@ -1,0 +1,14 @@
+{
+  "title": "My App",
+  "calculator": "Calculator",
+  "signUp": "Sign Up",
+  "signIn": "Sign In",
+  "selectPicture": "Select from Gallery",
+  "takePicture": "Take a Picture",
+  "editProfilePicture": "Edit Profile Picture",
+  "welcome": "Welcome to My App",
+  "email": "Email",
+  "emailError": "Please enter your email",
+  "password": "Password",
+  "passwordError": "Please enter your password"
+}
